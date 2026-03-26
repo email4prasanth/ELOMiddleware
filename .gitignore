@@ -44,4 +44,4 @@ terraform.rc
 # 01_BackendConfig.md
 # 02_terraformsetup.md
 # zzetacombine.ps1
-# zzetacombined.tf
+zzetacombined.tf
